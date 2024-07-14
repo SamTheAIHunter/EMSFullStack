@@ -4,7 +4,7 @@ const FooterComponent = () => {
   return (
     <div>
         <footer className='footer'>
-            <span> Theese all right by 2024 Microservices guide</span>
+            <span> Theese all right by 2024 Sam The Ai Hunter guide</span>
 
         </footer>
     </div>
